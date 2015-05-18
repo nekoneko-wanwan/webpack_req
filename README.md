@@ -1,0 +1,4 @@
+# webpackのサンプル
+
+* ひとまず各javascriptファイルのrequireができるように
+
